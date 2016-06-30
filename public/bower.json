@@ -1,0 +1,22 @@
+{
+  "name": "library-mean",
+  "authors": [
+    "FreeFly19 <wmsystem2008@yandex.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.7"
+  }
+}
